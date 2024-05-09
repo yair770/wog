@@ -1,0 +1,2 @@
+Hi from file
+And Hi again from test
